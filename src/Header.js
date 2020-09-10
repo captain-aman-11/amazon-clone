@@ -15,6 +15,8 @@ function Header() {
         }
     }
 
+    // Header 
+
     return (
         <div className='header'>
             <Link to="/">
